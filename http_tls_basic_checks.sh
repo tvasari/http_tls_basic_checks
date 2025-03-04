@@ -1,11 +1,5 @@
 #!/usr/bin/bash
 
-# TLS and HTTP Security Scanner
-# This script performs security checks for:
-# 1. HTTP security headers
-# 2. Weak TLS cipher suites
-# 3. Weak TLS certificate configurations
-
 # Exit on error
 set -e
 
