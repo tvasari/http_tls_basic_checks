@@ -7,4 +7,4 @@ This script performs security checks for:
 
 Dependencies: nuclei, nmap, testssl
 
-Usage: ./http_tls_basic_checks.sh http://<target> <output_directory>
+Usage: ./http_tls_basic_checks.sh TARGET OUTPUT_DIRECTORY
